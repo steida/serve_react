@@ -1,0 +1,6 @@
+{
+  "importMap": "import_map.json",
+  "tasks": {
+    "example": "deno run -A --unstable serve_react.tsx example.tsx"
+  }
+}
