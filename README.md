@@ -1,2 +1,3 @@
 # serve_react
- Render React in Deno
+
+Super simple SPA React renderer for Deno
